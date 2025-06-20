@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @vivadium-chloride
 - 👀 I’m interested in AI models and graphic designing.
-- 🌱 I’m currently learning Computer Science with Speclization in Artificial Intelligence.
+- 🌱 I’m currently learning Computer Science with Specialization in Artificial Intelligence.
 - 💞️ I’m looking to collaborate on AI/ML projects, as well as web developing and graphic designing.
 - 📫 I can be reached in my social media and email accounts written in my profile. :DD
 - 😄 Pronouns: she/her
